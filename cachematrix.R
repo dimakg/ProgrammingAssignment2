@@ -1,7 +1,7 @@
 ## These two functions will cashe the inverse of a new matrix
 
 
-## function creates a new list that contains matrix to be inversed and cashed
+## function creates a new list that contains matrix to be inversed and cashed.
 
 makeCacheMatrix <- function(x = matrix()) {
   mInverse <- NULL
